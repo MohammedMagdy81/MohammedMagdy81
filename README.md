@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My Name is Mohamed Magdy
 
- I'm Mohamed Magdy, a fresh graduate from the Faculty of Engineering, Department of Systems and Computers
+ I'm a fresh graduate from the Faculty of Engineering, Department of Systems and Computers
 
  🌱 I’m currently learning Lots of technologies related to mobile app development
 
